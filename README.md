@@ -11,8 +11,14 @@ Steps:
 
 **Caution**: `general_set_binding_data.csv`, `refined_minus_core_set_binding_data.csv`, and `core_set_binding_data.py` files contain binding affinity data which are used during training process.
 
-**Attribution**: The graphical abstract has been designed using images from [flaticon](https://www.flaticon.com/)
+Attribution
+--
+The graphical abstract has been designed using images from [Flaticon](https://www.flaticon.com/)
 
 Contact
 ---
 Milad Rayka, milad.rayka@yahoo.com
+
+Copyright
+--
+Copyright (c) 2023-2024, Milad Rayka
