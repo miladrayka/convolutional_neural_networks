@@ -13,7 +13,7 @@ Steps:
 
 Attribution
 --
-The graphical abstract has been designed using images from [Flaticon](https://www.flaticon.com/)
+The graphical abstract has been designed using images from [Flaticon](https://www.flaticon.com/).
 
 Contact
 ---
