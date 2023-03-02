@@ -7,4 +7,4 @@ Steps:
  3. Use `generate_features.py` script to generate features for your data. Output is saved in `.pkl` format.
  4. Finally, use `train_and_analysis.ipynb` for training and analyzing your results.
 
-Caution: `general_set_binding_data.csv`, `refined_minus_core_set_binding_data.csv`, and `core_set_binding_data.py` files contain binding affinity data which are used during training process.
+**Caution**: `general_set_binding_data.csv`, `refined_minus_core_set_binding_data.csv`, and `core_set_binding_data.py` files contain binding affinity data which are used during training process.
